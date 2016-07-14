@@ -2,6 +2,8 @@
 
 This is a synth that uses physical modeling opcodes in CSound to simulate a giant wineglass with strings strung across it that are plucked.
 
+You can listen to a demo [here](https://soundcloud.com/user-887398465/plucked-glass-test).
+
 ## Installation (for DAW usage)
 
 The VST was made using [Cabbage](http://cabbageaudio.com/), so you may want to consult their site if you're having problems getting it set up (any problematic behavior of the instrument itself is on me, though).
