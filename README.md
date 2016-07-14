@@ -25,3 +25,9 @@ You may get clicks at the beginnings of notes if you play chords. Single notes s
 Each note must have a long duration (like 3 seconds or so) or you'll get clipping when then note is released. This makes playing the instrument with a keyboard awkward, unfortunately.
 
 All of these issues should be fixed in future updates. I threw this together very quickly for a specific project, so I haven't yet done much work to get it to function well outside of that context.
+
+## Contributing
+
+Feel free to submit a pull request! You can also [open an issue](https://github.com/spinnylights/wineglass-harp/issues) if you run into problems I haven't discussed.
+
+This project uses the [Contributor Covenant](http://contributor-covenant.org/) as its code of conduct. Please follow the code of conduct in all of your interactions with this project (see the file `CODE_OF_CONDUCT.md` at the project root). If it ever gets large enough to have multiple people working on it and you feel that someone is treating you in a manner not in line with the code of conduct, please contact me at the email address specified in the code of conduct document. If I feel that you have violated the code of conduct in your interactions with this project, I'll give you a warning, and if you do it again, I'll permaban you from the repo. So play nice ^\_^
