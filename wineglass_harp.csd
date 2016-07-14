@@ -1,0 +1,1 @@
+wineglass_harp.vst/Contents/wineglass_harp.csd
