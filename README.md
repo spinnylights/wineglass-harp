@@ -8,9 +8,9 @@ The VST was made using [Cabbage](http://cabbageaudio.com/), so you may want to c
 
 1. [Install Csound](http://csound.github.io/download.html).
 1. `git clone https://github.com/spinnylights/wineglass-harp`.
-1. Copy the .vst to the appropriate directory on your system. If you're not sure, these are the defaults:
-  * __Windows__: Try `C:\Program Files\Steinberg\Vstplugins\`.
-  * __Mac__: `~/Library/Audio/Plug-Ins/VST`.
+1. Copy the appropriate VST file to the appropriate directory on your system. If you're not sure, these are the defaults:
+  * __Windows__: Use the .dll and try `C:\Program Files\Steinberg\Vstplugins\`.
+  * __Mac__: Use the .vst and `~/Library/Audio/Plug-Ins/VST`.
   * __Linux__: `~/.vst`.
 1. Fire up your DAW, load the VST on a track, and enjoy!
 
